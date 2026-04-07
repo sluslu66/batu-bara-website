@@ -1,0 +1,23 @@
+body {
+  font-family: Arial;
+  background: #0a0a0a;
+  color: #e0e0e0;
+  text-align: center;
+}
+
+.hero {
+  padding: 50px;
+}
+
+button {
+  padding: 10px;
+  background: #444;
+  color: white;
+  border: none;
+}
+
+.card {
+  background: #1a1a1a;
+  margin: 10px;
+  padding: 10px;
+}
